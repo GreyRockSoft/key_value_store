@@ -1,0 +1,4 @@
+dependencies {
+    compile 'org.jctools:jctools-core:1.2.1'
+    testCompile 'org.openjdk.jmh:jmh-core:1.12'
+}
